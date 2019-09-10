@@ -1,16 +1,7 @@
 # 83050_Team2
 - Ideas
   - Games
-    - Pong
-    - Galaga / Space Invaders
     - Platformer
-    - Random Generated Maze/Race
-    - Bomberman
-  - Programs
-    - LED Bar
-    - Ebook Reader / Creater
-    - Online Quiz w/ LAN
-    - Media Player
     
 # Platformer (Single Player)
 - Starting Point:
@@ -27,4 +18,11 @@
     - Images / Sprites
     - Background
     - First objects (Floor/Ground, Blocks, ? blocks, Goal/Ending, Spike)
-  - Tutorial map(s)
+- Week 3:
+  - Creating an actual playable map
+  - Hopefully get basic sprites
+- Tutorial map(s)
+- UI/HUD (Health/Lives, timer, score)
+- Main Menu UI
+- Load / Save
+- Creating "Make your own level"
