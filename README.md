@@ -31,6 +31,7 @@
   - (If time) Tutorial Level
   
 - Week 5:
+  - Main menu UI
   - Tutorial levels
   
 - Tutorial map(s)
