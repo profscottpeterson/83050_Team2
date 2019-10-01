@@ -34,5 +34,12 @@
   - Main menu UI
   - Tutorial levels
   
+- Week 6:
+  - Player Sprite/Animation
+  - Different type of enemy
+  - Powerups
+  - Level selector (Tutorial/Make your own level/Play your own level)
+  
 - Tutorial map(s)
 - Creating "Make your own level"
+- Documentation
