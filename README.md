@@ -36,6 +36,7 @@
   
 - Week 6:
   - Player Sprite/Animation
+  - Background
   - Different type of enemy
   - Powerups
   - Level selector (Tutorial/Make your own level/Play your own level)
