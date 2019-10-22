@@ -1,7 +1,3 @@
-I removed a few use cases, as they didn't seem large enough to necessitate an entire use case.
+I updated the SRS with some stuffs, feel free to take a look. It's basically done, though we may need to update Use Cases with additional functionality, but that won't be hard.
 
-For example, Timer didn't seem like it had enough steps to be a use case. It would be maybe two steps.
-
-I turned on the change tracking in the SRS document just to keep track of what's changed and who's changed what. Anything highlighted were things I wasn't sure about.
-
-Use cases should be just about done, unless we add functionality. Feel free to make comments/changes/do whatever.
+I included Nonfunctional Requirements that we will have a seizure warning on the screen before gameplay, as well as some sort of copyright thing, and some verbiage about coding style standards. I can take care of this for next week.
