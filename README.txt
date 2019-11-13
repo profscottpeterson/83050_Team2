@@ -1,3 +1,4 @@
-I updated the SRS with some stuffs, feel free to take a look. It's basically done, though we may need to update Use Cases with additional functionality, but that won't be hard.
-
-I included Nonfunctional Requirements that we will have a seizure warning on the screen before gameplay, as well as some sort of copyright thing, and some verbiage about coding style standards. I can take care of this for next week.
+Bugs:
+Loading after a mystery box is hit doesn't reset the mystery box
+Loading after an enemy is defeated respawns the enemy oddly. Enemy is short and doesn't respond to player.
+Jellyfish throws an error when the player gets too close
